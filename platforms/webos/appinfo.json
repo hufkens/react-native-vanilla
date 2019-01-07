@@ -5,6 +5,5 @@
     "main": "index.html",
     "id": "pavjacko.reactnativevanilla",
     "title": "ReactNativeVanilla",
-    "type": "web",
-    "version": "0.8.0"
+    "type": "web"
 }
